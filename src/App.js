@@ -153,6 +153,7 @@ function App() {
     <HashRouter>
       <Sidebar>
         <Routes>
+        <Route path="/" element={<Football Sports={Sports_List} onHeart={onheartclick}/>} />
           <Route path="/Football" element={<Football Sports={Sports_List} onHeart={onheartclick}/>} />
           <Route path="/Tennis" element={<Tennis Sports={Sports_List} onHeart={onheartclick}/>} />
           <Route path="/TableTennis" element={<TableTennis Sports={Sports_List} onHeart={onheartclick}/>} />
