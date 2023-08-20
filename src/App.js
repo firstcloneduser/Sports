@@ -1,6 +1,6 @@
 import React,{useState} from 'react';
 import './App.css';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import Sidebar from './Componets/Sidebar';
 import Tennis from './Pages/Tennis';
 import Basketball from './Pages/Basketball';
@@ -150,7 +150,7 @@ function App() {
     }
   
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Sidebar>
         <Routes>
           <Route path="/Football" element={<Football Sports={Sports_List} onHeart={onheartclick}/>} />
@@ -161,7 +161,7 @@ function App() {
           <Route path="/Cricket" element={<Cricket Sports={Sports_List} onHeart={onheartclick}/>} />
         </Routes>
       </Sidebar>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
