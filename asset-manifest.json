@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sports/static/css/main.904ff15d.css",
-    "main.js": "/Sports/static/js/main.36fa5b05.js",
+    "main.js": "/Sports/static/js/main.75949d98.js",
     "static/js/787.f87d2b1c.chunk.js": "/Sports/static/js/787.f87d2b1c.chunk.js",
     "static/media/2023-08-20 19_34_38-Window.png": "/Sports/static/media/2023-08-20 19_34_38-Window.0e3e7d6019fb4ebcce2c.png",
     "static/media/Manchester_City.png": "/Sports/static/media/Manchester_City.6a9213a8bfadff0926c7.png",
@@ -11,11 +11,11 @@
     "static/media/BaryanMunich.png": "/Sports/static/media/BaryanMunich.8c1cb46b79a2d655785a.png",
     "index.html": "/Sports/index.html",
     "main.904ff15d.css.map": "/Sports/static/css/main.904ff15d.css.map",
-    "main.36fa5b05.js.map": "/Sports/static/js/main.36fa5b05.js.map",
+    "main.75949d98.js.map": "/Sports/static/js/main.75949d98.js.map",
     "787.f87d2b1c.chunk.js.map": "/Sports/static/js/787.f87d2b1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.904ff15d.css",
-    "static/js/main.36fa5b05.js"
+    "static/js/main.75949d98.js"
   ]
 }
