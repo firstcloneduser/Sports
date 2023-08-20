@@ -1,5 +1,4 @@
-import React,{ useState } from 'react'
-import { IoMdFootball,IoLocationOutline } from 'react-icons/io';
+import React from 'react'
 import Versus from '../Images/Versus2.jpg';
 import { FiClock,FiHeart } from 'react-icons/fi';
 import {CiLocationOn} from 'react-icons/ci'

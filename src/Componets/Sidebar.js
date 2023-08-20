@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { FaTableTennis, FaFootballBall,FaBasketballBall,FaBars } from "react-icons/fa";
-import { FiLogOut, FiArrowLeftCircle, FiArrowRightCircle } from "react-icons/fi";
 import { BiSolidCricketBall } from "react-icons/bi";
 import { IoIosTennisball,IoMdFootball } from "react-icons/io";
 import { NavLink } from 'react-router-dom';
