@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2cf106f.css",
+    "main.js": "/static/js/main.f1d7a3ea.js",
+    "static/js/787.f87d2b1c.chunk.js": "/static/js/787.f87d2b1c.chunk.js",
+    "static/media/2023-08-20 19_34_38-Window.png": "/static/media/2023-08-20 19_34_38-Window.0e3e7d6019fb4ebcce2c.png",
+    "static/media/Manchester_City.png": "/static/media/Manchester_City.6a9213a8bfadff0926c7.png",
+    "static/media/Versus2.jpg": "/static/media/Versus2.8231b8800d58890cdb80.jpg",
+    "static/media/chelse.png": "/static/media/chelse.e161eadec125b757069d.png",
+    "static/media/AmericanFootball.jpeg": "/static/media/AmericanFootball.137e927f3c5751123c16.jpeg",
+    "static/media/BaryanMunich.png": "/static/media/BaryanMunich.8c1cb46b79a2d655785a.png",
+    "index.html": "/index.html",
+    "main.a2cf106f.css.map": "/static/css/main.a2cf106f.css.map",
+    "main.f1d7a3ea.js.map": "/static/js/main.f1d7a3ea.js.map",
+    "787.f87d2b1c.chunk.js.map": "/static/js/787.f87d2b1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2cf106f.css",
+    "static/js/main.f1d7a3ea.js"
+  ]
+}
